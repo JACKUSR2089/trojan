@@ -8,7 +8,7 @@
 
 trojan多用户管理部署程序
 
-打赏我 https://www.paypal.com/paypalme/uaa2020
+请打赏我 https://www.paypal.com/paypalme/uaa2020
 
 ## 功能
 - 在线web页面和命令行两种方式管理trojan多用户
